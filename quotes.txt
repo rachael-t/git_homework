@@ -5,3 +5,9 @@
 "That'll do pig"
 
 "Show me the money!"
+
+"I'm running out of quotes"
+
+"Help me I'm melting!"
+
+"Say it ain't so, Joe!"
